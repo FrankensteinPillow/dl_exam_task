@@ -15,6 +15,7 @@ dependencies = [
     "pandas>=2.3.0",
     "pillow>=11.2.1",
     "scikit-learn>=1.7.0",
-    "tensorflow>=2.19.0",
+    "tensorflow[and-cuda]>=2.19.0",
     "kagglehub>=0.3.12",
+    "iprogress>=0.4",
 ]

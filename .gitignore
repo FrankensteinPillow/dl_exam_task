@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 chest_xray
+.virtual_documents
